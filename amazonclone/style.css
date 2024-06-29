@@ -290,17 +290,16 @@ font-size: 0.9rem;
     padding:20px;
 }
 .pages{
-    width:94%;
-    display: flex;
-    justify-content:center;
+  display:flex;
+  justify-content: center;
+    text-align: center;
    
 }
 .pcontent{
     margin-right:20px;
 }
 .copy-rights{
-    width:92%;
-    display: flex;
-    justify-content:center;
+  
+   text-align: center;
     margin-top: 10px;
 }
